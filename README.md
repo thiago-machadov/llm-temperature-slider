@@ -47,5 +47,3 @@ The animated bars provide intuitive visual feedback about the current setting, w
 ## Component Location
 
 The component can be found at `src/components/llm-temperature-slider.tsx`
-
-# llm-temperature-slider
