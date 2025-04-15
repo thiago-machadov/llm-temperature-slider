@@ -27,23 +27,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the slider in action.
 
-## How It Works
-
-The slider visualizes the temperature setting used in Large Language Models (LLMs). Temperature controls the randomness of the model's outputs:
-
-- **Low temperature (0)**: More deterministic, focused responses
-- **High temperature (1)**: More random, creative responses
-
-The animated bars provide intuitive visual feedback about the current setting, with taller bars indicating the selected value.
-
-## Technical Details
-
-- Built with React and Next.js
-- Uses the Motion library for animations
-- Client-side component with mouse interaction
-- Responsive design
-- Styled with Tailwind CSS
-
 ## Component Location
 
 The component can be found at `src/components/llm-temperature-slider.tsx`
