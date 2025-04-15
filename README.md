@@ -2,7 +2,7 @@
 
 A demonstration of a beautiful, minimalist temperature slider component for Large Language Model applications built with React and Next.js.
 
-![LLM Temperature Slider](https://github.com/yourusername/llm-temperature-slider-22/raw/main/assets/slider-preview.png)
+https://github.com/user-attachments/assets/bd9f3eca-77e1-4d27-b770-e300bd5bfe57
 
 ## About This Project
 
