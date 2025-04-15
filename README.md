@@ -8,15 +8,6 @@ A demonstration of a beautiful, minimalist temperature slider component for Larg
 
 This repository is a Next.js environment for building and testing the `LlmTemperatureSlider` component. It's not intended as a standalone package, but rather as a development workspace for the component.
 
-## Features
-
-- 🔥 Interactive visual representation of LLM temperature settings
-- ✨ Smooth animations with spring physics
-- 📊 Dynamic bar heights based on proximity to selected value
-- 🎯 Precise value selection with snap-to-grid behavior
-- 🖱️ Intuitive drag interaction
-- 🎨 Clean, minimalist design aesthetic
-
 ## Getting Started
 
 ```bash
@@ -56,4 +47,5 @@ The animated bars provide intuitive visual feedback about the current setting, w
 ## Component Location
 
 The component can be found at `src/components/llm-temperature-slider.tsx`
+
 # llm-temperature-slider
